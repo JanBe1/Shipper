@@ -1,4 +1,4 @@
-namespace Shipper.Models
+namespace Shipper.Core
 {
     public class ErrorViewModel
     {

@@ -1,4 +1,4 @@
-﻿namespace Shipper.Models.Enums
+﻿namespace Shipper.Core.Enums
 {
     public enum ShipmentStatus
     {

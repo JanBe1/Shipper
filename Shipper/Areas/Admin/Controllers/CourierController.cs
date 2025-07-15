@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Shipper.Controllers
+namespace Shipper.Web.Areas.Admin.Controllers
 {
-    public class TransportController : Controller
+    public class CourierController : Controller
     {
         public IActionResult Index()
         {
